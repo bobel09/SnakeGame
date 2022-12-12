@@ -1,2 +1,1 @@
-# SnakeGame
-SnakeGame using Python 
+
